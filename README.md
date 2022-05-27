@@ -1,1 +1,0 @@
-# ArquiteturaSolu-o-ProjetoAtendimentoDigital
